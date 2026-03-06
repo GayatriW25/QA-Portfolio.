@@ -18,6 +18,6 @@ It demonstrates my understanding of **SDLC/STLC, defect tracking, test case crea
 
 ## Skills Demonstrated
 - Manual Testing
-- Automation Testing using Selenium
+- Automation Testing using Selenium + Java
 - API Testing (basic)
 - SQL Queries for validation
