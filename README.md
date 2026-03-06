@@ -1,6 +1,7 @@
 # QA Portfolio
 
-This repository showcases my **QA skills**, including **Manual Testing** and **Automation Testing** projects.
+This repository showcases my **QA skills**, including **Manual Testing** and **Automation Testing** projects.  
+It demonstrates my understanding of **SDLC/STLC, defect tracking, test case creation, and Selenium automation scripts**.
 
 ## Projects
 
